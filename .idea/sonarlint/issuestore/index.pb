@@ -1,0 +1,19 @@
+
+}
+Msrc/main/java/com/stark/springbootdynamodb/SpringbootDynamodbApplication.java,4\5\45263da9d68393c6f334a48f97d8efa99a974714
+s
+Csrc/test/java/com/stark/springbootdynamodb/LocalDbCreationRule.java,6\4\6451e53bf75bd67b0efd39a0bcb05e4b5c7eb3e4
+}
+Msrc/main/java/com/stark/springbootdynamodb/repository/EmployeeRepository.java,9\c\9c6794d3b6a7b1b481d8459cfa8d4b0b728dafe5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+r
+Bsrc/main/java/com/stark/springbootdynamodb/model/EmployeeInfo.java,a\d\ad95e7870bcfcb56420ab0f4398980714cb0de06
+z
+Jsrc/main/java/com/stark/springbootdynamodb/config/DynamoDBLocalConfig.java,1\5\15f03ec13ad0aa19e1ac3353c6ee86091e2f366e
+Ç
+Rsrc/test/java/com/stark/springbootdynamodb/SpringbootDynamodbApplicationTests.java,c\2\c2a5056be8cf72482c1a4aace035002739145a32
+Å
+Qsrc/main/java/com/stark/springbootdynamodb/controller/EmployeeRestController.java,8\5\8536d109045d180fae14127debc983135303255c
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

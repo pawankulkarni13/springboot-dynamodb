@@ -1,0 +1,9 @@
+
+R
+java:S1874 "<Remove this use of "AmazonDynamoDBClient"; it is deprecated.(³…™Ä
+E
+java:S1874""/Remove this use of "isEmpty"; it is deprecated.(éé¹æ
+I
+java:S1874#"3Remove this use of "setEndpoint"; it is deprecated.(–™“
+y
+java:S1128"WRemove this unused import 'com.stark.springbootdynamodb.repository.EmployeeRepository'.(äøØÈıÿÿÿÿ8İ­Ä¯Ÿ0
